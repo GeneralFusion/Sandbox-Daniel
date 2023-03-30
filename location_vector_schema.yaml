@@ -1,0 +1,44 @@
+key_date_(experiment_yyyymmdd):
+  git_commit: "git_commit_id"
+  experiment: "Pi3b"
+  diagnostics:
+    AXUV:
+      # PI3B_AXUV1_at_XR2_SW71246
+      AXUV_1:
+        location: "XR2_SW71246"
+        from_r: 1027.805
+        from_phi: 275
+        from_z: 2219.75
+        from_diameter: null
+        to_r: 1001.2255
+        to_phi: 275
+        to_z: 2235.5
+        cone_angle: null
+        drawing_file: null
+        measurement:
+          angle: deg
+          distance: microm
+      #... more AXUV1 configurations here
+    BPROBE:
+      BP01:
+        location: "OuterVessel_Section2"
+        from_r: 1000
+        from_phi: 342
+        from_z: 2112.5
+        from_diameter: null
+        to_r: null
+        to_phi: null
+        to_z: null
+        cone_angle: null
+        drawing_file: "Z:\Diagnostics Data Controls\PI3 Diagnostics\GF2-21373E=PI3 B-Probe Locations.PDF ; Z:\Diagnostics Data Controls\PI3 Diagnostics\GF2-16989D=Instrumented Outer Vessel Sphere, Section 2, PI3.PDF"
+      #... more Bprobe configurations here
+    IDS:
+      IDS01: "... see above"
+    BACK_FLANGE:
+      BF075: "... see above"
+    # More diagnostics -> see above
+
+    
+    
+
+  
