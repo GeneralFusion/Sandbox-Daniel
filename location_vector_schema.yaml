@@ -7,7 +7,7 @@ key_date_(experiment_yyyymmdd):
   diagnostics:
     AXUV:
       # PI3B_AXUV1_at_XR2_SW71246
-      AXUV_1:
+      AXUV_01:
         location: "XR2_SW71246"
         from_r: 1027.805
         from_phi: 275
@@ -21,7 +21,7 @@ key_date_(experiment_yyyymmdd):
         measurement:
       #... more AXUV1 configurations here
     BPROBE:
-      BP01:
+      BP_01:
         location: "OuterVessel_Section2"
         from_r: 1000
         from_phi: 342
@@ -31,7 +31,7 @@ key_date_(experiment_yyyymmdd):
         to_phi: null
         to_z: null
         cone_angle: null
-        drawing_file: "Z:\Diagnostics Data Controls\PI3 Diagnostics\GF2-21373E=PI3 B-Probe Locations.PDF ; Z:\Diagnostics Data Controls\PI3 Diagnostics\GF2-16989D=Instrumented Outer Vessel Sphere, Section 2, PI3.PDF"
+        drawing_file: ['Z:\Diagnostics Data Controls\PI3 Diagnostics\GF2-21373E=PI3', 'B-Probe Locations.PDF', 'Z:\Diagnostics Data Controls\PI3 Diagnostics\GF2-16989D=Instrumented Outer Vessel Sphere', 'Section 2, PI3.PDF']
       #... more Bprobe configurations here
     IDS:
       IDS01: "... see above"
