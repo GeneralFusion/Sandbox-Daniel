@@ -31,6 +31,7 @@ key_date_(experiment_yyyymmdd):
         to_phi: null
         to_z: null
         cone_angle: null
+        # Single quotes for URLS!!
         drawing_file: ['Z:\Diagnostics Data Controls\PI3 Diagnostics\GF2-21373E=PI3', 'B-Probe Locations.PDF', 'Z:\Diagnostics Data Controls\PI3 Diagnostics\GF2-16989D=Instrumented Outer Vessel Sphere', 'Section 2, PI3.PDF']
       #... more Bprobe configurations here
     IDS:
