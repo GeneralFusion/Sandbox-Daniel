@@ -1,9 +1,11 @@
-key_date_(experiment_yyyymmdd):
+#Future - naming conventions for stuff on the machine that may be more than sensors, eg. valves, pumps, etc
+
+key_date_(experiment_yymmdd):
   metadata:
     git_commit: "git_commit_id"
     experiment: "Pi3b"
     angle: deg
-    distance: microm
+    distance: mm
   diagnostics:
     AXUV:
       # PI3B_AXUV1_at_XR2_SW71246
@@ -40,7 +42,6 @@ key_date_(experiment_yyyymmdd):
       BF075: "... see above"
     # More diagnostics -> see above
 
-    
     
 
   
