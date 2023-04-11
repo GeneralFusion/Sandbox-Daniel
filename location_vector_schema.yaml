@@ -1,10 +1,10 @@
 #Future - naming conventions for stuff on the machine that may be more than sensors, eg. valves, pumps, etc
 # main:
   metadata:
-    git_commit: "git_commit_id"
+    # git_commit: "git_commit_id"
     experiment: "pi3b"
     angle: deg
-    distance: mm  
+    distance: mm
   diagnostics:
     INTERFEROMETER:
       Int01:
