@@ -3,8 +3,8 @@
   metadata:
     # git_commit: "git_commit_id"
     experiment: "pi3b"
-    angle: deg
-    distance: mm
+    angle_measurement: deg
+    distance_measurement: mm
   diagnostics:
     INTERFEROMETER:
       Int01:
