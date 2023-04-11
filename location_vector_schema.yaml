@@ -1,7 +1,6 @@
 #Future - naming conventions for stuff on the machine that may be more than sensors, eg. valves, pumps, etc
 # main:
   metadata:
-    # git_commit: "git_commit_id"
     experiment: "pi3b"
     angle_measurement: deg
     distance_measurement: mm
@@ -14,7 +13,6 @@
         from_phi: 142.0
         from_r: 995.0
         from_z: 2212.5
-        item_id: 3
         location: Pi3b_Inter_INT1 z=221 Core
         to_phi: 38.0
         to_r: 0.0
@@ -26,7 +24,6 @@
         from_phi: 141.0
         from_r: 958.52
         from_z: 2397.5
-        item_id: 4
         location: Pi3b_Inter_INT2 z=239
         to_phi: 39.0
         to_r: 0.0
@@ -38,7 +35,6 @@
         from_phi: 137.0
         from_r: 882.66
         from_z: 2582.5
-        item_id: 5
         location: Pi3b_Inter_INT3 z=258
         to_phi: 43.0
         to_r: 0.0
@@ -50,7 +46,6 @@
         from_phi: 129.0
         from_r: 755.62
         from_z: 2767.5
-        item_id: 6
         location: Pi3b_Inter_INT5 z=276 Edge
         to_phi: 51.0
         to_r: 0.0
@@ -61,7 +56,6 @@
         from_phi: 134.0
         from_r: 826.7972847076845
         from_z: 2675.0
-        item_id: 110
         location: Pi3b_Inter_INT4 z=267
         to_phi: 46.0
         to_r: null
@@ -75,7 +69,6 @@
         from_phi: 154.159
         from_r: 999.99
         from_z: 2117.5
-        item_id: 7
         location: Pi3b_Polar_P1 r=900 Edge
         to_phi: 205.8
         to_r: 0.0
@@ -87,7 +80,6 @@
         from_phi: 143.13
         from_r: 999.95
         from_z: 2122.5
-        item_id: 8
         location: Pi3b_Polar_P2 r=800
         to_phi: 216.86
         to_r: 0.0
@@ -99,7 +91,6 @@
         from_phi: 134.5
         from_r: 998.49
         from_z: 2167.5
-        item_id: 9
         location: Pi3b_Polar_P3 r=700
         to_phi: 225.4
         to_r: 0.0
@@ -111,7 +102,6 @@
         from_phi: 127.238
         from_r: 991.51
         from_z: 2242.5
-        item_id: 10
         location: Pi3b_Polar_ P4 r=600 Core
         to_phi: 232.762
         to_r: 0.0
@@ -123,7 +113,6 @@
         from_phi: 180.0
         from_r: 518.4
         from_z: 2966.9
-        item_id: 11
         location: Pi3b_Polar_ poloidal
         to_phi: 180.0
         to_r: 0.0
@@ -134,7 +123,6 @@
         from_phi: 135.0
         from_r: 496.85
         from_z: 3037.5
-        item_id: 111
         location: Pi3b_Polar_hybrid
         to_phi: 225.0
         to_r: null
@@ -147,7 +135,6 @@
         from_phi: 52.8
         from_r: 992.41
         from_z: 2235.5
-        item_id: 12
         location: Pi3b_TS_Laser Path
         to_phi: 307.2
         to_r: 0.0
@@ -158,7 +145,6 @@
         from_phi: 52.8
         from_r: 992.41
         from_z: 2235.5
-        item_id: 12
         location: pi3b_Thompson_T1_600
         to_phi: 307.2
         to_r: 0.0
@@ -169,7 +155,6 @@
         from_phi: 52.8
         from_r: 992.41
         from_z: 2235.5
-        item_id: 12
         location: pi3b_Thompson_T1_615
         to_phi: 307.2
         to_r: 0.0
@@ -180,7 +165,6 @@
         from_phi: 52.8
         from_r: 992.41
         from_z: 2235.5
-        item_id: 12
         location: pi3b_Thompson_T1_695
         to_phi: 307.2
         to_r: 0.0
@@ -191,7 +175,6 @@
         from_phi: 52.8
         from_r: 992.41
         from_z: 2235.5
-        item_id: 12
         location: pi3b_Thompson_T1_792
         to_phi: 307.2
         to_r: 0.0
@@ -202,7 +185,6 @@
         from_phi: 52.8
         from_r: 992.41
         from_z: 2235.5
-        item_id: 12
         location: pi3b_Thompson_T3_862
         to_phi: 307.2
         to_r: 0.0
@@ -213,7 +195,6 @@
         from_phi: 52.8
         from_r: 992.41
         from_z: 2235.5
-        item_id: 12
         location: pi3b_Thompson_T3_925
         to_phi: 307.2
         to_r: 0.0
@@ -226,7 +207,6 @@
         from_phi: 141.86
         from_r: 1144.36
         from_z: 2117.5
-        item_id: 13
         location: Pi3b_Ion Doppler_P1 Left
         to_phi: 180.0
         to_r: 50.8
@@ -237,7 +217,6 @@
         from_phi: 134.76
         from_r: 1136.19
         from_z: 2122.5
-        item_id: 14
         location: Pi3b_Ion Doppler_P2 Left
         to_phi: 180.0
         to_r: 50.8
@@ -248,7 +227,6 @@
         from_phi: 128.29
         from_r: 1129.78
         from_z: 2167.5
-        item_id: 15
         location: Pi3b_Ion Doppler_P3 Left
         to_phi: 180.0
         to_r: 50.8
@@ -259,7 +237,6 @@
         from_phi: 122.09
         from_r: 1129.36
         from_z: 2242.5
-        item_id: 16
         location: Pi3b_Ion Doppler_P4 Left
         to_phi: 180.0
         to_r: 50.8
@@ -270,7 +247,6 @@
         from_phi: 218.14
         from_r: 1144.36
         from_z: 2117.5
-        item_id: 17
         location: Pi3b_Ion Doppler_P1 Right
         to_phi: 180.0
         to_r: 50.8
@@ -281,7 +257,6 @@
         from_phi: 225.24
         from_r: 1136.19
         from_z: 2122.5
-        item_id: 18
         location: Pi3b_Ion Doppler_P2 Right
         to_phi: 180.0
         to_r: 50.8
@@ -292,7 +267,6 @@
         from_phi: 231.71
         from_r: 1129.78
         from_z: 2167.5
-        item_id: 19
         location: Pi3b_Ion Doppler_P3 Right
         to_phi: 180.0
         to_r: 50.8
@@ -303,7 +277,6 @@
         from_phi: 237.91
         from_r: 1129.36
         from_z: 2242.5
-        item_id: 20
         location: Pi3b_Ion Doppler_P4 Right
         to_phi: 180.0
         to_r: 50.8
@@ -314,7 +287,6 @@
         from_phi: 101.75
         from_r: 1140.1
         from_z: 2235.5
-        item_id: 21
         location: Pi3b_Ion Doppler_XR3 Left Side View
         to_phi: 160.0
         to_r: 50.8
@@ -327,7 +299,6 @@
         from_phi: 270.0
         from_r: 1106.4
         from_z: 2235.5
-        item_id: 28
         location: Pi3b_Light_XR2 Right Side Shaft View
         to_phi: 270.0
         to_r: 12.7
@@ -338,7 +309,6 @@
         from_phi: 101.75
         from_r: 1140.1
         from_z: 2235.5
-        item_id: 29
         location: Pi3b_Light_XR3 Left Side View
         to_phi: 160.0
         to_r: 12.7
@@ -349,7 +319,6 @@
         from_phi: 293.75
         from_r: 867.7
         from_z: 2862.3
-        item_id: 30
         location: Pi3b_Light_ XR4 Front View
         to_phi: 340.0
         to_r: 12.7
@@ -360,7 +329,6 @@
         from_phi: 75.0
         from_r: 760.0
         from_z: 0.0
-        item_id: 31
         location: Pi3b_Light_Back Flange 075
         to_phi: 75.0
         to_r: 1.0
@@ -371,7 +339,6 @@
         from_phi: 165.0
         from_r: 760.0
         from_z: 0.0
-        item_id: 32
         location: Pi3b_Light_Back Flange 165
         to_phi: 165.0
         to_r: 1.0
@@ -382,7 +349,6 @@
         from_phi: 255.0
         from_r: 760.0
         from_z: 0.0
-        item_id: 33
         location: Pi3B_Light_Back Flange 255
         to_phi: 255.0
         to_r: 1.0
@@ -393,7 +359,6 @@
         from_phi: 285.0
         from_r: 760.0
         from_z: 0.0
-        item_id: 34
         location: Pi3B_Light_Back Flange 285
         to_phi: 285.0
         to_r: 1.0
@@ -404,7 +369,6 @@
         from_phi: 315.0
         from_r: 760.0
         from_z: 0.0
-        item_id: 35
         location: Pi3B_Light_Back Flange 315
         to_phi: 315.0
         to_r: 1.0
@@ -415,7 +379,6 @@
         from_phi: 345.0
         from_r: 760.0
         from_z: 0.0
-        item_id: 36
         location: Pi3B_Light_Back Flange 345
         to_phi: 345.0
         to_r: 1.0
@@ -426,7 +389,6 @@
         from_phi: 135.0
         from_r: 760.0
         from_z: 0.0
-        item_id: 37
         location: Pi3b_Light_Back_Flange_135
         to_phi: 135.0
         to_r: 1.0
@@ -439,7 +401,6 @@
         from_phi: 122.09
         from_r: 1129.36
         from_z: 2242.5
-        item_id: 62
         location: Pi3b_IDS1@85mm_P4 Right
         to_phi: 134.95
         to_r: null
@@ -450,7 +411,6 @@
         from_phi: 122.09
         from_r: 1129.36
         from_z: 2242.5
-        item_id: 63
         location: Pi3b_IDS2@28mm_P4 Right
         to_phi: 141.4008
         to_r: null
@@ -461,7 +421,6 @@
         from_phi: 122.09
         from_r: 1129.36
         from_z: 2242.5
-        item_id: 65
         location: Pi3b_IDS4@-28mm_P4 Right
         to_phi: 147.811
         to_r: null
@@ -472,7 +431,6 @@
         from_phi: 122.09
         from_r: 1129.36
         from_z: 2242.5
-        item_id: 66
         location: Pi3b_IDS5@-85mm_P4 Right
         to_phi: 154.254
         to_r: null
@@ -487,7 +445,6 @@
         from_phi: 18.0
         from_r: 865.8
         from_z: 1612.5
-        item_id: 67
         location: Pi3b_Bprobe_OuterVessel_Section1_BP17
         to_phi: null
         to_r: null
@@ -500,7 +457,6 @@
         from_phi: 112.5
         from_r: 865.8
         from_z: 1612.5
-        item_id: 68
         location: Pi3b_Bprobe_OuterVessel_Section1_BP18
         to_phi: null
         to_r: null
@@ -513,7 +469,6 @@
         from_phi: 198.0
         from_r: 865.8
         from_z: 1612.5
-        item_id: 69
         location: Pi3b_Bprobe_OuterVessel_Section1_BP19
         to_phi: null
         to_r: null
@@ -526,7 +481,6 @@
         from_phi: 292.5
         from_r: 865.8
         from_z: 1612.5
-        item_id: 70
         location: Pi3b_Bprobe_OuterVessel_Section1_BP20
         to_phi: null
         to_r: null
@@ -539,7 +493,6 @@
         from_phi: 18.0
         from_r: 1000.0
         from_z: 2112.5
-        item_id: 71
         location: Pi3b_Bprobe_OuterVessel_Section2_BP08
         to_phi: null
         to_r: null
@@ -552,7 +505,6 @@
         from_phi: 67.5
         from_r: 1000.0
         from_z: 2112.5
-        item_id: 72
         location: Pi3b_Bprobe_OuterVessel_Section2_BP07
         to_phi: null
         to_r: null
@@ -565,7 +517,6 @@
         from_phi: 112.5
         from_r: 1000.0
         from_z: 2112.5
-        item_id: 73
         location: Pi3b_Bprobe_OuterVessel_Section2_BP06
         to_phi: null
         to_r: null
@@ -578,7 +529,6 @@
         from_phi: 162.0
         from_r: 1000.0
         from_z: 2112.5
-        item_id: 74
         location: Pi3b_Bprobe_OuterVessel_Section2_BP05
         to_phi: null
         to_r: null
@@ -591,7 +541,6 @@
         from_phi: 198.0
         from_r: 1000.0
         from_z: 2112.5
-        item_id: 75
         location: Pi3b_Bprobe_OuterVessel_Section2_BP04
         to_phi: null
         to_r: null
@@ -604,7 +553,6 @@
         from_phi: 247.5
         from_r: 1000.0
         from_z: 2112.5
-        item_id: 76
         location: Pi3b_Bprobe_OuterVessel_Section2_BP03
         to_phi: null
         to_r: null
@@ -617,7 +565,6 @@
         from_phi: 342.0
         from_r: 1000.0
         from_z: 2112.5
-        item_id: 79
         location: Pi3b_Bprobe_OuterVessel_Section2_BP01
         to_phi: null
         to_r: null
@@ -629,7 +576,6 @@
         from_phi: 45.0
         from_r: 760.0
         from_z: 0.0
-        item_id: 80
         location: Pi3b_Bprobe_AVessel_BP21
         to_phi: null
         to_r: null
@@ -641,7 +587,6 @@
         from_phi: 135.0
         from_r: 760.0
         from_z: 0.0
-        item_id: 81
         location: Pi3b_Bprobe_AVessel_BP22
         to_phi: null
         to_r: null
@@ -653,7 +598,6 @@
         from_phi: 225.0
         from_r: 760.0
         from_z: 0.0
-        item_id: 82
         location: Pi3b_Bprobe_AVessel_BP23
         to_phi: null
         to_r: null
@@ -665,7 +609,6 @@
         from_phi: 315.0
         from_r: 760.0
         from_z: 0.0
-        item_id: 83
         location: Pi3b_Bprobe_AVessel_BP24
         to_phi: null
         to_r: null
@@ -677,7 +620,6 @@
         from_phi: 45.0
         from_r: 950.0
         from_z: 1175.0
-        item_id: 84
         location: Pi3b_Bprobe_AVessel_BP25
         to_phi: null
         to_r: null
@@ -689,7 +631,6 @@
         from_phi: 135.0
         from_r: 950.0
         from_z: 1175.0
-        item_id: 85
         location: Pi3b_Bprobe_AVessel_BP26
         to_phi: null
         to_r: null
@@ -701,7 +642,6 @@
         from_phi: 225.0
         from_r: 950.0
         from_z: 1175.0
-        item_id: 86
         location: Pi3b_Bprobe_AVessel_BP27
         to_phi: null
         to_r: null
@@ -713,7 +653,6 @@
         from_phi: 315.0
         from_r: 950.0
         from_z: 1175.0
-        item_id: 87
         location: Pi3b_Bprobe_AVessel_BP28
         to_phi: null
         to_r: null
@@ -726,7 +665,6 @@
         from_phi: 18.0
         from_r: 865.8
         from_z: 2612.5
-        item_id: 90
         location: Pi3b_Bprobe_OuterVessel_Section3_BP09
         to_phi: null
         to_r: null
@@ -739,7 +677,6 @@
         from_phi: 112.5
         from_r: 865.8
         from_z: 2612.5
-        item_id: 91
         location: Pi3b_Bprobe_OuterVessel_Section3_BP10
         to_phi: null
         to_r: null
@@ -752,7 +689,6 @@
         from_phi: 198.0
         from_r: 865.8
         from_z: 2612.5
-        item_id: 92
         location: Pi3b_Bprobe_OuterVessel_Section3_BP11
         to_phi: null
         to_r: null
@@ -765,7 +701,6 @@
         from_phi: 292.5
         from_r: 865.8
         from_z: 2612.5
-        item_id: 93
         location: Pi3b_Bprobe_OuterVessel_Section3_BP12
         to_phi: null
         to_r: null
@@ -778,7 +713,6 @@
         from_phi: 18.0
         from_r: 599.3
         from_z: 2912.5
-        item_id: 94
         location: Pi3b_Bprobe_OuterVessel_Section3_BP13
         to_phi: null
         to_r: null
@@ -791,7 +725,6 @@
         from_phi: 112.5
         from_r: 599.3
         from_z: 2912.5
-        item_id: 95
         location: Pi3b_Bprobe_OuterVessel_Section3_BP14
         to_phi: null
         to_r: null
@@ -804,7 +737,6 @@
         from_phi: 198.0
         from_r: 599.3
         from_z: 2912.5
-        item_id: 96
         location: Pi3b_Bprobe_OuterVessel_Section3_BP15
         to_phi: null
         to_r: null
@@ -817,7 +749,6 @@
         from_phi: 292.5
         from_r: 599.3
         from_z: 2912.5
-        item_id: 97
         location: Pi3b_Bprobe_OuterVessel_Section3_BP16
         to_phi: null
         to_r: null
@@ -829,7 +760,6 @@
         from_phi: 18.0
         from_r: 76.0
         from_z: 2147.5
-        item_id: 98
         location: Pi3b_Bprobe_InnerShaft_BP01
         to_phi: null
         to_r: null
@@ -841,7 +771,6 @@
         from_phi: 108.0
         from_r: 76.0
         from_z: 2147.5
-        item_id: 99
         location: Pi3b_Bprobe_InnerShaft_BP02
         to_phi: null
         to_r: null
@@ -853,7 +782,6 @@
         from_phi: 198.0
         from_r: 76.0
         from_z: 2147.5
-        item_id: 100
         location: Pi3b_Bprobe_InnerShaft_BP03
         to_phi: null
         to_r: null
@@ -865,7 +793,6 @@
         from_phi: 288.0
         from_r: 76.0
         from_z: 2147.5
-        item_id: 101
         location: Pi3b_Bprobe_InnerShaft_BP04
         to_phi: null
         to_r: null
@@ -877,7 +804,6 @@
         from_phi: 18.0
         from_r: 76.0
         from_z: 2612.5
-        item_id: 102
         location: Pi3b_Bprobe_InnerShaft_BP05
         to_phi: null
         to_r: null
@@ -889,7 +815,6 @@
         from_phi: 108.0
         from_r: 76.0
         from_z: 2612.5
-        item_id: 103
         location: Pi3b_Bprobe_InnerShaft_BP06
         to_phi: null
         to_r: null
@@ -901,7 +826,6 @@
         from_phi: 198.0
         from_r: 76.0
         from_z: 2612.5
-        item_id: 104
         location: Pi3b_Bprobe_InnerShaft_BP07
         to_phi: null
         to_r: null
@@ -913,7 +837,6 @@
         from_phi: 288.0
         from_r: 76.0
         from_z: 2612.5
-        item_id: 105
         location: Pi3b_Bprobe_InnerShaft_BP08
         to_phi: null
         to_r: null
@@ -925,7 +848,6 @@
         from_phi: 18.0
         from_r: 76.0
         from_z: 2912.5
-        item_id: 106
         location: Pi3b_Bprobe_InnerShaft_BP09
         to_phi: null
         to_r: null
@@ -937,7 +859,6 @@
         from_phi: 108.0
         from_r: 76.0
         from_z: 2912.5
-        item_id: 107
         location: Pi3b_Bprobe_InnerShaft_BP10
         to_phi: null
         to_r: null
@@ -949,7 +870,6 @@
         from_phi: 198.0
         from_r: 76.0
         from_z: 2912.5
-        item_id: 108
         location: Pi3b_Bprobe_InnerShaft_BP11
         to_phi: null
         to_r: null
@@ -961,7 +881,6 @@
         from_phi: 288.0
         from_r: 76.0
         from_z: 2912.5
-        item_id: 109
         location: Pi3b_Bprobe_InnerShaft_BP12
         to_phi: null
         to_r: null
@@ -974,7 +893,6 @@
         from_phi: 280.12
         from_r: 1193.3
         from_z: 2235.5
-        item_id: 22
         location: Pi3b_AXUV_XR1 Right Side Tangent View
         to_phi: 340.0
         to_r: 0.0
@@ -985,7 +903,6 @@
         from_phi: 100.18
         from_r: 1193.3
         from_z: 2235.5
-        item_id: 23
         location: Pi3b_AXUV_XR3 Left Side View
         to_phi: 160.0
         to_r: 0.0
@@ -996,7 +913,6 @@
         from_phi: 275.0
         from_r: 1027.805
         from_z: 2219.75
-        item_id: 115
         location: PI3B_AXUV1_at_XR2_SW71246
         to_phi: 275.0
         to_r: null
@@ -1007,7 +923,6 @@
         from_phi: 275.0
         from_r: 1027.805
         from_z: 2221.85
-        item_id: 116
         location: PI3B_AXUV2_at_XR2_SW71246
         to_phi: 275.0
         to_r: null
@@ -1018,7 +933,6 @@
         from_phi: 275.0
         from_r: 1027.805
         from_z: 2223.95
-        item_id: 117
         location: PI3B_AXUV3_at_XR2_SW71246
         to_phi: 275.0
         to_r: null
@@ -1029,7 +943,6 @@
         from_phi: 275.0
         from_r: 1027.805
         from_z: 2226.05
-        item_id: 119
         location: PI3B_AXUV4_at_XR2_SW71246
         to_phi: 275.0
         to_r: null
@@ -1040,7 +953,6 @@
         from_phi: 275.0
         from_r: 1027.805
         from_z: 2228.15
-        item_id: 120
         location: PI3B_AXUV5_at_XR2_SW71246
         to_phi: 275.0
         to_r: null
@@ -1051,7 +963,6 @@
         from_phi: 275.0
         from_r: 1027.805
         from_z: 2230.25
-        item_id: 121
         location: PI3B_AXUV6_at_XR2_SW71246
         to_phi: 275.0
         to_r: null
@@ -1062,7 +973,6 @@
         from_phi: 275.0
         from_r: 1027.805
         from_z: 2232.35
-        item_id: 122
         location: PI3B_AXUV7_at_XR2_SW71246
         to_phi: 275.0
         to_r: null
@@ -1073,7 +983,6 @@
         from_phi: 275.0
         from_r: 1027.805
         from_z: 2234.45
-        item_id: 123
         location: PI3B_AXUV8_at_XR2_SW71246
         to_phi: 275.0
         to_r: null
@@ -1084,7 +993,6 @@
         from_phi: 275.0
         from_r: 1027.805
         from_z: 2236.55
-        item_id: 124
         location: PI3B_AXUV9_at_XR2_SW71246
         to_phi: 275.0
         to_r: null
@@ -1095,7 +1003,6 @@
         from_phi: 275.0
         from_r: 1027.805
         from_z: 2238.65
-        item_id: 125
         location: PI3B_AXUV10_at_XR2_SW71246
         to_phi: 275.0
         to_r: null
@@ -1106,7 +1013,6 @@
         from_phi: 275.0
         from_r: 1027.805
         from_z: 2240.75
-        item_id: 126
         location: PI3B_AXUV11_at_XR2_SW71246
         to_phi: 275.0
         to_r: null
@@ -1117,7 +1023,6 @@
         from_phi: 275.0
         from_r: 1027.805
         from_z: 2242.85
-        item_id: 127
         location: PI3B_AXUV12_at_XR2_SW71246
         to_phi: 275.0
         to_r: null
@@ -1128,7 +1033,6 @@
         from_phi: 275.0
         from_r: 1027.805
         from_z: 2244.95
-        item_id: 128
         location: PI3B_AXUV13_at_XR2_SW71246
         to_phi: 275.0
         to_r: null
@@ -1139,7 +1043,6 @@
         from_phi: 275.0
         from_r: 1027.805
         from_z: 2247.05
-        item_id: 129
         location: PI3B_AXUV14_at_XR2_SW71246
         to_phi: 275.0
         to_r: null
@@ -1150,7 +1053,6 @@
         from_phi: 275.0
         from_r: 1027.805
         from_z: 2249.15
-        item_id: 130
         location: PI3B_AXUV15_at_XR2_SW71246
         to_phi: 275.0
         to_r: null
@@ -1161,7 +1063,6 @@
         from_phi: 275.0
         from_r: 1027.805
         from_z: 2251.25
-        item_id: 131
         location: PI3B_AXUV16_at_XR2_SW71246
         to_phi: 275.0
         to_r: null
@@ -1172,7 +1073,6 @@
         from_phi: 270.0
         from_r: 713.0842
         from_z: 2905.783
-        item_id: 132
         location: PI3B_AXUV1_at_XR5_SW71246
         to_phi: 270.0
         to_r: null
@@ -1183,7 +1083,6 @@
         from_phi: 270.0
         from_r: 710.985
         from_z: 2905.783
-        item_id: 133
         location: PI3B_AXUV2_at_XR5_SW71246
         to_phi: 270.0
         to_r: null
@@ -1194,7 +1093,6 @@
         from_phi: 270.0
         from_r: 708.885
         from_z: 2905.783
-        item_id: 134
         location: PI3B_AXUV3_at_XR5_SW71246
         to_phi: 270.0
         to_r: null
@@ -1205,7 +1103,6 @@
         from_phi: 270.0
         from_r: 706.785
         from_z: 2905.783
-        item_id: 135
         location: PI3B_AXUV4_at_XR5_SW71246
         to_phi: 270.0
         to_r: null
@@ -1216,7 +1113,6 @@
         from_phi: 270.0
         from_r: 704.685
         from_z: 2905.783
-        item_id: 136
         location: PI3B_AXUV5_at_XR5_SW71246
         to_phi: 270.0
         to_r: null
@@ -1227,7 +1123,6 @@
         from_phi: 270.0
         from_r: 702.585
         from_z: 2905.783
-        item_id: 137
         location: PI3B_AXUV6_at_XR5_SW71246
         to_phi: 270.0
         to_r: null
@@ -1238,7 +1133,6 @@
         from_phi: 270.0
         from_r: 700.485
         from_z: 2905.783
-        item_id: 139
         location: PI3B_AXUV7_at_XR5_SW71246
         to_phi: 270.0
         to_r: null
@@ -1249,7 +1143,6 @@
         from_phi: 270.0
         from_r: 698.385
         from_z: 2905.783
-        item_id: 141
         location: PI3B_AXUV8_at_XR5_SW71246
         to_phi: 270.0
         to_r: null
@@ -1260,7 +1153,6 @@
         from_phi: 270.0
         from_r: 696.285
         from_z: 2905.783
-        item_id: 142
         location: PI3B_AXUV9_at_XR5_SW71246
         to_phi: 270.0
         to_r: null
@@ -1271,7 +1163,6 @@
         from_phi: 270.0
         from_r: 694.185
         from_z: 2905.783
-        item_id: 143
         location: PI3B_AXUV10_at_XR5_SW71246
         to_phi: 270.0
         to_r: null
@@ -1282,7 +1173,6 @@
         from_phi: 270.0
         from_r: 692.085
         from_z: 2905.783
-        item_id: 144
         location: PI3B_AXUV11_at_XR5_SW71246
         to_phi: 270.0
         to_r: null
@@ -1293,7 +1183,6 @@
         from_phi: 270.0
         from_r: 689.985
         from_z: 2905.783
-        item_id: 145
         location: PI3B_AXUV12_at_XR5_SW71246
         to_phi: 270.0
         to_r: null
@@ -1304,7 +1193,6 @@
         from_phi: 270.0
         from_r: 687.785
         from_z: 2905.783
-        item_id: 146
         location: PI3B_AXUV13_at_XR5_SW71246
         to_phi: 270.0
         to_r: null
@@ -1315,7 +1203,6 @@
         from_phi: 270.0
         from_r: 685.785
         from_z: 2905.783
-        item_id: 147
         location: PI3B_AXUV14_at_XR5_SW71246
         to_phi: 270.0
         to_r: null
@@ -1326,7 +1213,6 @@
         from_phi: 270.0
         from_r: 683.685
         from_z: 2905.783
-        item_id: 148
         location: PI3B_AXUV15_at_XR5_SW71246
         to_phi: 270.0
         to_r: null
@@ -1337,7 +1223,6 @@
         from_phi: 270.0
         from_r: 681.585
         from_z: 2905.783
-        item_id: 150
         location: PI3B_AXUV16_at_XR5_SW71246
         to_phi: 270.0
         to_r: null
@@ -1348,7 +1233,6 @@
         from_phi: 270.0
         from_r: 1234.04
         from_z: 2251.25
-        item_id: 151
         location: PI3B_AXUV1_at_XR2_SW21809
         to_phi: 270.0
         to_r: null
@@ -1359,7 +1243,6 @@
         from_phi: 270.0
         from_r: 1234.04
         from_z: 2249.15
-        item_id: 152
         location: PI3B_AXUV2_at_XR2_SW21809
         to_phi: 270.0
         to_r: null
@@ -1370,7 +1253,6 @@
         from_phi: 270.0
         from_r: 1234.04
         from_z: 2247.05
-        item_id: 153
         location: PI3B_AXUV3_at_XR2_SW21809
         to_phi: 270.0
         to_r: null
@@ -1381,7 +1263,6 @@
         from_phi: 270.0
         from_r: 1234.04
         from_z: 2244.95
-        item_id: 154
         location: PI3B_AXUV4_at_XR2_SW21809
         to_phi: 270.0
         to_r: null
@@ -1392,7 +1273,6 @@
         from_phi: 270.0
         from_r: 1234.04
         from_z: 2242.85
-        item_id: 155
         location: PI3B_AXUV5_at_XR2_SW21809
         to_phi: 270.0
         to_r: null
@@ -1403,7 +1283,6 @@
         from_phi: 270.0
         from_r: 1234.04
         from_z: 2240.75
-        item_id: 156
         location: PI3B_AXUV6_at_XR2_SW21809
         to_phi: 270.0
         to_r: null
@@ -1414,7 +1293,6 @@
         from_phi: 270.0
         from_r: 1234.04
         from_z: 2238.65
-        item_id: 157
         location: PI3B_AXUV7_at_XR2_SW21809
         to_phi: 270.0
         to_r: null
@@ -1425,7 +1303,6 @@
         from_phi: 270.0
         from_r: 1234.04
         from_z: 2240.75
-        item_id: 158
         location: PI3B_AXUV8_at_XR2_SW21809
         to_phi: 270.0
         to_r: null
@@ -1436,7 +1313,6 @@
         from_phi: 270.0
         from_r: 1234.04
         from_z: 2234.45
-        item_id: 159
         location: PI3B_AXUV9_at_XR2_SW21809
         to_phi: 270.0
         to_r: null
@@ -1447,7 +1323,6 @@
         from_phi: 270.0
         from_r: 1234.04
         from_z: 2232.35
-        item_id: 160
         location: PI3B_AXUV10_at_XR2_SW21809
         to_phi: 270.0
         to_r: null
@@ -1458,7 +1333,6 @@
         from_phi: 270.0
         from_r: 1234.04
         from_z: 2230.25
-        item_id: 161
         location: PI3B_AXUV11_at_XR2_SW21809
         to_phi: 270.0
         to_r: null
@@ -1469,7 +1343,6 @@
         from_phi: 270.0
         from_r: 1234.04
         from_z: 2228.15
-        item_id: 162
         location: PI3B_AXUV12_at_XR2_SW21809
         to_phi: 270.0
         to_r: null
@@ -1480,7 +1353,6 @@
         from_phi: 270.0
         from_r: 1234.04
         from_z: 2226.05
-        item_id: 163
         location: PI3B_AXUV13_at_XR2_SW21809
         to_phi: 270.0
         to_r: null
@@ -1491,7 +1363,6 @@
         from_phi: 270.0
         from_r: 1234.04
         from_z: 2223.95
-        item_id: 164
         location: PI3B_AXUV14_at_XR2_SW21809
         to_phi: 270.0
         to_r: null
@@ -1502,7 +1373,6 @@
         from_phi: 270.0
         from_r: 1234.04
         from_z: 2221.85
-        item_id: 165
         location: PI3B_AXUV15_at_XR2_SW21809
         to_phi: 270.0
         to_r: null
@@ -1513,7 +1383,6 @@
         from_phi: 270.0
         from_r: 1234.04
         from_z: 2219.75
-        item_id: 166
         location: PI3B_AXUV16_at_XR2_SW21809
         to_phi: 270.0
         to_r: null
@@ -1524,7 +1393,6 @@
         from_phi: 270.0
         from_r: 681.584
         from_z: 3142.022
-        item_id: 167
         location: PI3B_AXUV1_at_XR5_SW21809
         to_phi: 270.0
         to_r: null
@@ -1535,7 +1403,6 @@
         from_phi: 270.0
         from_r: 683.684
         from_z: 3142.022
-        item_id: 168
         location: PI3B_AXUV2_at_XR5_SW21809
         to_phi: 270.0
         to_r: null
@@ -1546,7 +1413,6 @@
         from_phi: 270.0
         from_r: 685.784
         from_z: 3142.022
-        item_id: 169
         location: PI3B_AXUV3_at_XR5_SW21809
         to_phi: 270.0
         to_r: null
@@ -1557,7 +1423,6 @@
         from_phi: 270.0
         from_r: 687.884
         from_z: 3142.022
-        item_id: 170
         location: PI3B_AXUV4_at_XR5_SW21809
         to_phi: 270.0
         to_r: null
@@ -1568,7 +1433,6 @@
         from_phi: 270.0
         from_r: 689.984
         from_z: 3142.022
-        item_id: 171
         location: PI3B_AXUV5_at_XR5_SW21809
         to_phi: 270.0
         to_r: null
@@ -1579,7 +1443,6 @@
         from_phi: 270.0
         from_r: 692.084
         from_z: 3142.022
-        item_id: 172
         location: PI3B_AXUV6_at_XR5_SW21809
         to_phi: 270.0
         to_r: null
@@ -1590,7 +1453,6 @@
         from_phi: 270.0
         from_r: 694.184
         from_z: 3142.022
-        item_id: 173
         location: PI3B_AXUV7_at_XR5_SW21809
         to_phi: 270.0
         to_r: null
@@ -1601,7 +1463,6 @@
         from_phi: 270.0
         from_r: 696.284
         from_z: 3142.022
-        item_id: 175
         location: PI3B_AXUV8_at_XR5_SW21809
         to_phi: 270.0
         to_r: null
@@ -1612,7 +1473,6 @@
         from_phi: 270.0
         from_r: 698.384
         from_z: 3142.022
-        item_id: 176
         location: PI3B_AXUV9_at_XR5_SW21809
         to_phi: 270.0
         to_r: null
@@ -1623,7 +1483,6 @@
         from_phi: 270.0
         from_r: 700.484
         from_z: 3142.022
-        item_id: 177
         location: PI3B_AXUV10_at_XR5_SW21809
         to_phi: 270.0
         to_r: null
@@ -1634,7 +1493,6 @@
         from_phi: 270.0
         from_r: 702.584
         from_z: 3142.022
-        item_id: 178
         location: PI3B_AXUV11_at_XR5_SW21809
         to_phi: 270.0
         to_r: null
@@ -1645,7 +1503,6 @@
         from_phi: 270.0
         from_r: 704.684
         from_z: 3142.022
-        item_id: 179
         location: PI3B_AXUV12_at_XR5_SW21809
         to_phi: 270.0
         to_r: null
@@ -1656,7 +1513,6 @@
         from_phi: 270.0
         from_r: 706.784
         from_z: 3142.022
-        item_id: 180
         location: PI3B_AXUV13_at_XR5_SW21809
         to_phi: 270.0
         to_r: null
@@ -1667,7 +1523,6 @@
         from_phi: 270.0
         from_r: 708.884
         from_z: 3142.022
-        item_id: 181
         location: PI3B_AXUV14_at_XR5_SW21809
         to_phi: 270.0
         to_r: null
@@ -1678,7 +1533,6 @@
         from_phi: 270.0
         from_r: 710.984
         from_z: 3142.022
-        item_id: 182
         location: PI3B_AXUV15_at_XR5_SW21809
         to_phi: 270.0
         to_r: null
@@ -1689,7 +1543,6 @@
         from_phi: 270.0
         from_r: 713.084
         from_z: 3142.022
-        item_id: 183
         location: PI3B_AXUV16_at_XR5_SW21809
         to_phi: 270.0
         to_r: null
@@ -1700,7 +1553,6 @@
         from_phi: 278.81
         from_r: 1250.405
         from_z: 2251.25
-        item_id: 184
         location: PI3B_AXUV1_at_XR1_SW21809
         to_phi: 280.7269
         to_r: null
@@ -1711,7 +1563,6 @@
         from_phi: 278.81
         from_r: 1250.405
         from_z: 2249.15
-        item_id: 185
         location: PI3B_AXUV2_at_XR1_SW21809
         to_phi: 280.7269
         to_r: null
@@ -1722,7 +1573,6 @@
         from_phi: 278.81
         from_r: 1250.405
         from_z: 2247.05
-        item_id: 186
         location: PI3B_AXUV3_at_XR1_SW21809
         to_phi: 280.7269
         to_r: null
@@ -1733,7 +1583,6 @@
         from_phi: 278.81
         from_r: 1250.405
         from_z: 2244.95
-        item_id: 187
         location: PI3B_AXUV4_at_XR1_SW21809
         to_phi: 280.7269
         to_r: null
@@ -1744,7 +1593,6 @@
         from_phi: 278.81
         from_r: 1250.405
         from_z: 2242.85
-        item_id: 188
         location: PI3B_AXUV5_at_XR1_SW21809
         to_phi: 280.7269
         to_r: null
@@ -1755,7 +1603,6 @@
         from_phi: 278.81
         from_r: 1250.405
         from_z: 2240.75
-        item_id: 189
         location: PI3B_AXUV6_at_XR1_SW21809
         to_phi: 280.7269
         to_r: null
@@ -1766,7 +1613,6 @@
         from_phi: 278.81
         from_r: 1250.405
         from_z: 2238.65
-        item_id: 190
         location: PI3B_AXUV7_at_XR1_SW21809
         to_phi: 280.7269
         to_r: null
@@ -1777,7 +1623,6 @@
         from_phi: 278.81
         from_r: 1250.405
         from_z: 2236.55
-        item_id: 191
         location: PI3B_AXUV8_at_XR1_SW21809
         to_phi: 280.7269
         to_r: null
@@ -1788,7 +1633,6 @@
         from_phi: 278.81
         from_r: 1250.405
         from_z: 2234.45
-        item_id: 192
         location: PI3B_AXUV9_at_XR1_SW21809
         to_phi: 280.7269
         to_r: null
@@ -1799,7 +1643,7 @@
         from_phi: 278.81
         from_r: 1250.405
         from_z: 2232.35
-        item_id: 193
+        item_id: 
         location: PI3B_AXUV10_at_XR1_SW21809
         to_phi: 280.7269
         to_r: null
@@ -1810,7 +1654,6 @@
         from_phi: 278.81
         from_r: 1250.405
         from_z: 2230.25
-        item_id: 194
         location: PI3B_AXUV11_at_XR1_SW21809
         to_phi: 280.7269
         to_r: null
@@ -1821,7 +1664,6 @@
         from_phi: 278.81
         from_r: 1250.405
         from_z: 2228.15
-        item_id: 195
         location: PI3B_AXUV12_at_XR1_SW21809
         to_phi: 280.7269
         to_r: null
@@ -1832,7 +1674,6 @@
         from_phi: 278.81
         from_r: 1250.405
         from_z: 2226.05
-        item_id: 196
         location: PI3B_AXUV13_at_XR1_SW21809
         to_phi: 280.7269
         to_r: null
@@ -1843,7 +1684,6 @@
         from_phi: 278.81
         from_r: 1250.405
         from_z: 2223.95
-        item_id: 197
         location: PI3B_AXUV14_at_XR1_SW21809
         to_phi: 280.7269
         to_r: null
@@ -1854,7 +1694,6 @@
         from_phi: 278.81
         from_r: 1250.405
         from_z: 2221.85
-        item_id: 198
         location: PI3B_AXUV15_at_XR1_SW21809
         to_phi: 280.7269
         to_r: null
@@ -1865,7 +1704,6 @@
         from_phi: 278.81
         from_r: 1256.55
         from_z: 2219.75
-        item_id: 199
         location: PI3B_AXUV16_at_XR1_SW21809
         to_phi: 280.7269
         to_r: null
