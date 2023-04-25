@@ -131,6 +131,6 @@ def validate_yaml(yaml_config:dict) -> dict:
                 # print(f"MAP: {pi3_valid_map[diagnostic_type][value]}")
                 print(type(vector))
 
-with open('config.yaml', 'r', encoding='UTF-8') as file:
+with open('location_vector_schema.yaml', 'r', encoding='UTF-8') as file:
     config = yaml.safe_load(file)
     validate_yaml(config)
