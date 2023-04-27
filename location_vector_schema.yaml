@@ -7,7 +7,7 @@
   diagnostics:
     INTERFEROMETER:
       Int01:
-        cone_angle: 0.0
+        cone_angle: 100.0
         drawing_file: Z:\Mechanical\Mechanical Part Numbers\216xx\11\GF2-21611A=Outer Vessel
           Sphere Assembly, PI3 - Interferometer Chords.PDF
         from_phi: 144.5
