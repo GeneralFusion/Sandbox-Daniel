@@ -1,8 +1,8 @@
 #Future - naming conventions for stuff on the machine that may be more than sensors, eg. valves, pumps, etc
-# main: 
+# main:  
   metadata:
     experiment: "pi3b"
-    angle_measurement: deg
+    angle_measurement: rad
     distance_measurement: mm
   diagnostics:
     INTERFEROMETER:
