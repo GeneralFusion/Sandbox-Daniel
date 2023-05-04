@@ -2,7 +2,7 @@
 # main:  
   metadata:
     experiment: "pi3b"
-    angle_measurement: deg
+    angle_measurement: rad
     distance_measurement: mm
   diagnostics:
     INTERFEROMETER:
