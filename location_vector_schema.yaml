@@ -1,7 +1,7 @@
 #Future - naming conventions for stuff on the machine that may be more than sensors, eg. valves, pumps, etc  
 # main:
   metadata: 
-    experiment: "pi3b"
+    experiment: "pi3breezy"
     angle_measurement: deg 
     distance_measurement: mm 
   diagnostics:
